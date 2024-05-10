@@ -1,0 +1,40 @@
+body{
+     text-align: center;
+     color: white;
+     font-family: "Poppins", sans-serif;
+     
+}
+ul li{
+    margin: 5px;
+    text-align: justify;
+      
+}
+div{
+    background-color: darkred;
+    border-radius: 5px;
+    
+}
+.pad{
+    padding: 10px;
+    size: 100px;
+    
+}
+.pad .made{
+    padding: 50px;
+} 
+
+main{
+    background-image: url(1.jpg);
+    opacity: 0.9;
+    width: 80%;
+    background-position: center;
+    padding: 50px;
+    padding-bottom: 20px;
+    margin: auto;
+    background-position: center;
+    background-size: auto;
+}
+p{
+    padding: 10px;
+    color: #eee;
+}
